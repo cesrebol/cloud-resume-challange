@@ -3,6 +3,7 @@
 }
 
 body {
+
     background-color: #FAF9F6;    
     color: #2b2b2b;
 
@@ -10,4 +11,10 @@ body {
 
 h1 {
     color: #2b2b2b;
+
+    font-family: 'Lato', sans-serif;
+}
+
+.grid-container {
+    display: grid;
 }
