@@ -1,7 +1,13 @@
-body {
-    font-family: 'Lato', sans-serif;
+.row {
+    background-color: #FAF9F6
 }
 
-.grid-container {
-    display: grid;
+body {
+    background-color: #FAF9F6;    
+    color: #2b2b2b;
+
+}
+
+h1 {
+    color: #2b2b2b;
 }
